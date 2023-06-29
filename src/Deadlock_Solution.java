@@ -1,4 +1,4 @@
-public class Program5_Solution {
+public class Deadlock_Solution {
 
     private static final Object lock1 = new Object();
     private static final Object lock2  = new Object();

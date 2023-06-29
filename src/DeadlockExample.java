@@ -1,4 +1,4 @@
-public class Program5 {
+public class DeadlockExample {
 
     //Dead Lock Exmaple
     private static final Object lock1 = new Object();

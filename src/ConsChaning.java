@@ -31,7 +31,7 @@ class Student {
     }
 
 }
-public class Program4 {
+public class ConsChaning {
     public static void main(String[] args) {
         Student student1 = new Student();
         student1.printoutput();

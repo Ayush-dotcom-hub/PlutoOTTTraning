@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Program6 {
+public class DefaultValue {
     public static void main(String[] args) {
 
     int[] intarr = new int[2];

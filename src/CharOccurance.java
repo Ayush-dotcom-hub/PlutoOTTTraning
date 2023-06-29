@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Program1 {
+public class CharOccurance {
 
     public static void getCharCount(String name)
     {

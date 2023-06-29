@@ -1,4 +1,4 @@
-public class Program2 {
+public class ArrayFall {
     public static void main(String[] args) {
         int[] array = {50,6,1,9,3,22,590,44,90,93,9,28,3,25,80};
         printarrayvalues(array);
