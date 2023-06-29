@@ -1,12 +1,12 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Program {
+public class Program1 {
 
     public static void getCharCount(String name)
     {
         Map<Character, Integer> charMap = new HashMap<Character, Integer>();
-        char strarr[] = name.toCharArray();
+        char[] strarr = name.toCharArray();
         for(char c: strarr)
         {
             if(charMap.containsKey(c))
