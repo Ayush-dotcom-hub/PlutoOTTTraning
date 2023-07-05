@@ -6,13 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5255ef40-f124-48ee-b7f6-87ed0d416ac6" name="Changes" comment="Third Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharOccurance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayFall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraySwap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsChaning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeadlockExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program5_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deadlock_Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DefaultValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayFall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayFall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraySwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraySwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharOccurance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +39,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28664497&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.splitter.proportion": "0.28664497"
   }
-}</component>
-  <component name="RunManager" selected="Application.DefaultValue">
+}]]></component>
+  <component name="RunManager" selected="Application.CharOccurance">
+    <configuration name="ArrayFall (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayFall" />
+      <module name="OTTTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayFall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayFall" />
+      <module name="OTTTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArraySwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraySwap" />
       <module name="OTTTraining" />
@@ -67,20 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeadlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeadlockExample" />
-      <module name="OTTTraining" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Deadlock_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Deadlock_Solution" />
-      <module name="OTTTraining" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DefaultValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DefaultValue" />
       <module name="OTTTraining" />
@@ -90,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DefaultValue" />
         <item itemvalue="Application.CharOccurance" />
-        <item itemvalue="Application.DeadlockExample" />
-        <item itemvalue="Application.Deadlock_Solution" />
         <item itemvalue="Application.ArraySwap" />
+        <item itemvalue="Application.ArrayFall" />
+        <item itemvalue="Application.ArrayFall (1)" />
+        <item itemvalue="Application.DefaultValue" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +155,16 @@
     <MESSAGE value="Second Commit" />
     <MESSAGE value="Third Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
